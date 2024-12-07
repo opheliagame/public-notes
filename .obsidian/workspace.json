@@ -8,48 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3de58d0094951db8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "design/generative zine making.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "generative zine making"
-            }
-          },
-          {
-            "id": "2b8441770d6c7eb9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "design/queer typing.canvas",
-                "viewState": {
-                  "x": 430.0735231558402,
-                  "y": 223.18007718245116,
-                  "zoom": -0.9208891482114359
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "queer typing"
-            }
-          },
-          {
             "id": "a9ad20986ab1b774",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design/print making.md",
+                "file": "projects/where is my body.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "print making"
+              "title": "where is my body"
+            }
+          },
+          {
+            "id": "58f76efdf9eac24c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -231,23 +210,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3de58d0094951db8",
+  "active": "a9ad20986ab1b774",
   "lastOpenFiles": [
-    "tech/prompting the prompt.md",
+    "projects/experiments with text.md",
+    "projects/where is my body old.md",
+    "projects/36 days of type 2021.md",
+    "projects/where is my body.md",
+    "projects/tiny texts.md",
+    "projects/tiny shader.md",
+    "assets/projects/freefall.md",
+    "assets/projects/wimb/wimb3.jpg",
+    "assets/projects/wimb/wimb2.jpg",
+    "assets/projects/wimb/wimb1.jpg",
+    "assets/projects/wimb/result.png",
+    "assets/projects/wimb/notion-screenshot.png",
+    "assets/projects/wimb/futurelanding.serendipityartsvirtual.com_opheliagame.png",
+    "assets/projects/freefall/screenshot.png",
+    "assets/projects/freefall/poem3.png",
+    "assets/projects/freefall/poem2.png",
+    "assets/projects/freefall/poem1.png",
+    "assets/projects/freefall/d3-chai.mp4",
+    "assets/projects/wimb",
+    "assets/projects/freefall",
+    "assets/projects",
+    "assets/Users:anushkatrivedi:person.textClipping",
     "design/generative zine making.md",
+    "website",
+    "tech/prompting the prompt.md",
     "design/queer typing.canvas",
     "design/rangoli, kolam, lusona and everything in between.md",
-    "assets/スクリーンショット 2024-11-02 午後0.40.19.png",
-    "assets/スクリーンショット 2024-10-31 午後3.08.03.png",
-    "assets/スクリーンショット 2024-10-31 午後2.10.50.png",
-    "assets/スクリーンショット 2024-10-31 午後1.55.54.png",
-    "assets/スクリーンショット 2024-10-31 午後1.50.39.png",
-    "assets/rangoli.png",
-    "assets/スクリーンショット 2024-10-26 午後6.13.49.png",
-    "assets/スクリーンショット 2024-10-26 午前11.24.35.png",
     "tech/generative making.md",
-    "assets/スクリーンショット 2024-10-26 午前9.04.23.png",
-    "assets/スクリーンショット 2024-10-26 午前9.03.29.png",
     "tech/coding as craft.md",
     "tech/computation and weaving.md",
     "design/print making.md",
@@ -264,18 +256,9 @@
     "tech/bhai ye he bhai-lang.md",
     "design/Language Design.md",
     "assets/Pasted image 20240823155036.png.sb-ce06ca91-l12ATz",
-    "index.md",
     "Diagram.svg.xml",
-    "how to build a mountain.md",
     "Untitled.canvas",
-    "writing/interactive, hypertext fiction.md",
-    "writing/non linear storytelling.md",
-    "poems/silence.md",
-    "personal/creativity.md",
     "misc",
-    "personal",
-    "tech",
-    "writing",
-    "design"
+    "personal"
   ]
 }

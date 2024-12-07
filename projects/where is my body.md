@@ -1,19 +1,75 @@
 ---
+title: where is my body
+org: Serendipity Arts Foundation
+year: 2022
 dg-publish: true
 ---
 
-> Ghias, we must be careful not to teach the girls too much. How will they ever find husbands if they are too learned? The less they know, the less they will want of the outside world.
+  
+  
 
-> When is abortion legal? If continuing the pregnancy involves a risk to the mother's life. Continuing pregnancy would cause grave damage to the physical or mental health of the mother. The pregnancy has been caused by rape. If the child is born, it would be gravely deformed. Any method of family planning adopted by the couple has failed.
+I read extremely normal amounts. I know people who read much more and have much stronger memory, and those are abilities I would definitely choose to have if I could. Hearing people recite *shers* from memory gives me both extreme pleasure and a dull pain.
 
-> Every woman knows that, regardless of all her other achievements, she is a failure if she is not beautiful.
+  
 
-i like to collect sentences. it is one of the best things about owning a kindle; you can highlight! i do have a wip project ([[my readwise]]) to be able to go back to these kindle highlights. 
+But since I do have really shitty memory - as you would know annoyingly, if you know me personally - it becomes important to organise some sort of a personal archive. And this is not just because of bad memory; we all build these archives in some way or another, with our screenshots folder or browser history. We collect links and pin things and bookmark; all in the hope of someday being a version of ourselves that will actually go through the contents of this ever growing list. In a lot of ways this kind of collecting is like putting things in a void or in the garbage can; you know that you are never actually going to see them again.
 
-the randomness of these collections of sentences is fascinating. because it is not quite random but the associations can be wild and new ones form each time you go through it again. i'm sure that i will not highlight the same things when reading something for the second time.  
+  
 
-it was with this fascination that i started working on wimb. i don't quite recall why i chose the body as a site to start this collection, this archive of thoughts. but the process has been very interesting. i have read a lot, i have marked a lot, i have thought about my body a lot. 
+Building a personal archive is a different exercise. I like to think of it as building a home to which you can return when you're lost and struggling to find yourself. Not in any dramatic way, but everyday ways like when you get stared at on the street and now in the back of your head there is a lingering thought that there might be something wrong with how your dressed, or how you look. In fact most of the times, I did not even need to be stared at to be reminded of this feeling of being a stranger inside my own body. There was relief to be found among the many texts I was reading, and since the initial idea of building a twitter stream of things people were saying about bodies was turning out to be quite depressing, I turned towards the manual approach and told the software engineer inside me to shut up for just one second.
 
-during a short flirtation with blender, i remember thinking about making a building with rooms that represent parts of my body. (*maybe i can find the handwritten notes somewhere*) and the digital part of the project developed for serendipity is a combination of the same ideas. you see a bunch of doors and entering them presents you with a series of choices where you pick sentences from the archive, creating your own personal archive of choices. to be honest, both these archives are not rigorous at all. they are temporary sites of data collection with the latter not existing anywhere outside of your memory and experience. they are casual. they are destroyed and are built again. but just like going through your highlights brings back something, these sentences act as inviting hooks into the original material; material that speaks through many voices about the same subject that is the human body. 
+  
 
-for the physical leg of the project i experimented with an arduino and raspberry pi setup for the first time (physical computing is fun but oh so anxiety inducing). i wanted for people to be able to engage with the archive in a more immediate manner and landed on the idea of a typewriter as a mouthpiece for the archive. 
+I read and read (still very normal amounts) and made a [spreadsheet](https://docs.google.com/spreadsheets/d/1JQj7LOJGX4-OtiAO9XfzMXzjNKiW37sA4AQQ-gNmBtQ/edit?usp=sharing) which turned into a [notion database](https://trivedianushka.notion.site/525f09a8c0ed4dcb9ca5765989fd26dd?v=759c0ff359ae4d1d99940c09da5e14d2&pvs=4) [^1] which turned into a [twitter account](https://twitter.com/whereisourbody) and a [very tiny game](https://futurelanding.serendipityartsvirtual.com/opheliagame) [^2] where you pick items from this collection based on phrases and words and decide yourself whether you thought you won or not based on the items that you picked.
+
+  
+
+[play here](https://futurelanding.serendipityartsvirtual.com/opheliagame)
+
+  
+
+![screenshot from future landing](/assets/projects/wimb/futurelanding.serendipityartsvirtual.com_opheliagame.png)
+
+  
+  
+
+![screenshsot from future landing of the game end](/assets/projects/wimb/result.png)
+
+  
+
+## let's get physical
+
+  
+
+And then Future Landing became physical and we descended upon a very lovely building, the Excise Building in Goa, and where is my body was to have a separate room for itself. Maybe because so many things were a first for me with this one, I decided on a somewhat [^3] ambitious idea of making a typewriter that hosts the archive and also acts as its' mouthpiece.
+
+  
+
+![screenshot from notion of the process of thinking about physical iteration of WIMB](/assets/projects/wimb/notion-screenshot.png)
+
+  
+
+So you would say something, i.e. type something on the typewriter and see it on paper in front of you of course; and then the typewriter would respond to you from the archive. This back and forth could continue until you ran out of paper or patience at which point you could do as you wished with the paper sheets; take them back or leave them there for other people to read.
+
+  
+
+![picture showing type writer at SAF 2022](/assets/projects/wimb/wimb1.jpg)
+
+  
+
+![where is my body at SAF 2022](/assets/projects/wimb/wimb2.jpg)
+
+  
+
+![where is my body at SAF 2022](/assets/projects/wimb/wimb3.jpg)
+
+  
+  
+  
+  
+
+[^1]: what is up with the title field of notion databases, like honestly not everything has a title notion!
+
+[^2]: very tiny "game"
+
+[^3]: very much, I did not even own an Arduino at this point
