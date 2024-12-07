@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/experiments with text.md",
+                "file": "projects/where is my body.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "experiments with text"
+              "title": "where is my body"
             }
           }
         ]
@@ -175,12 +175,13 @@
   },
   "active": "abb0460c0fa75521",
   "lastOpenFiles": [
-    "tech/prompting the prompt.md",
     "projects/experiments with text.md",
-    "2024-02-12.md",
     "projects/where is my body.md",
-    "projects/where is my body old.md",
-    "projects/36 days of type 2021.md",
+    "drafts/where is my body old.md",
+    "drafts",
+    "drafts/36 days of type 2021.md",
+    "tech/prompting the prompt.md",
+    "2024-02-12.md",
     "projects/tiny texts.md",
     "projects/tiny shader.md",
     "assets/projects/freefall.md",
@@ -217,11 +218,9 @@
     "design/queer typing.md",
     "example.md",
     "ideas.md",
-    "tech/bhai ye he bhai-lang.md",
     "assets/Pasted image 20240823155036.png.sb-ce06ca91-l12ATz",
     "Diagram.svg.xml",
     "Untitled.canvas",
-    "misc",
-    "personal"
+    "misc"
   ]
 }
