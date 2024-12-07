@@ -2,7 +2,6 @@
 title: experiments with text
 org: dra.ft
 excerpt: ""
-date: 2024-02-12
 year: 2021
 dg-publish: true
 ---
