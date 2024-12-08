@@ -173,15 +173,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abb0460c0fa75521",
+  "active": "02ec3827c3678a79",
   "lastOpenFiles": [
+    "dataviews.md",
+    "tech/bhai ye he bhai-lang.md",
     "tech/render targets.md",
     "tech/computation and weaving.md",
     "tech/coding as craft.md",
     "tech/generative making.md",
     "tech/prompting the prompt.md",
     "tech/drawing text in opengl.md",
-    "tech/bhai ye he bhai-lang.md",
     "poems/taxi rides in the morning.md",
     "poems/silence.md",
     "personal/creativity.md",
@@ -204,7 +205,6 @@
     "projects/drafts/36 days of type 2021.md",
     "2024-02-12.md",
     "projects/tiny texts.md",
-    "projects/tiny shader.md",
     "assets/projects/wimb/wimb3.jpg",
     "assets/projects/wimb/wimb2.jpg",
     "assets/projects/wimb/wimb1.jpg",
