@@ -1,3 +1,7 @@
+---
+tags:
+  - tech
+---
 *an exercise in critical code studies*
 
 

@@ -2,6 +2,8 @@
 dg-publish: true
 dg-home: false
 title: what is a digital garden
+tags:
+  - digital-garden
 ---
 But before that; why do I have a website? 
 For one, I am not someone who has a lot of thoughts worth publicly writing about. And while I certainly enjoy documenting things[^1], more often than not, I struggle with words. 

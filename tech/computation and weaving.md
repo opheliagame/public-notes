@@ -1,3 +1,7 @@
+---
+tags:
+  - tech
+---
 
 Weaving as binary art and the algebra of patterns by Ellen Harlizius-Klück
 

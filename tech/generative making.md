@@ -1,3 +1,7 @@
+---
+tags:
+  - tech
+---
 https://timeline.lerandom.art/#/chapter-1 
 Hiroshi Kawano 
 ![[Pasted image 20241026085934.png]]

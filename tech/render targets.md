@@ -1,3 +1,7 @@
+---
+tags:
+  - tech
+---
 needed to make things like brush strokes? 
 How are brushes in Adobe implemented?
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - tech
+---
 
 Masaya Kurahashi
 https://kyabe.net/profile/
