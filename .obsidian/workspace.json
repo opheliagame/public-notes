@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "abb0460c0fa75521",
+            "id": "f7f06a6478c719bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/bhai ye he bhai-lang.md",
+                "file": "personal/inhabiting online spaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bhai ye he bhai-lang"
+              "title": "inhabiting online spaces"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "right": {
     "id": "4fe45463e9d810f1",
@@ -139,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/prompting the prompt.md"
+                "file": "a collection of sentences.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of prompting the prompt"
+              "title": "Outline of a collection of sentences"
             }
           },
           {
@@ -173,55 +177,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02ec3827c3678a79",
+  "active": "20996ff67a8bada5",
   "lastOpenFiles": [
-    "dataviews.md",
+    "personal/creativity.md",
+    "index.md",
+    "projects/making joy with joy.md",
+    "design/Generative zine making.md",
+    "assets/zine1.pdf",
+    "assets/zine2.pdf",
+    "assets/opheliagame.github.io_opheliagame.github.io-old_zines_queering-families(iPhone SE).png",
+    "community/documenting CCSanté, a creative coding meetup from Bangalore.md",
+    "assets/IMG-20240306-WA0007.jpg",
+    "design/Language Design.md",
+    "design/Rangoli, Kolam, Lusona and everything in between.md",
+    "design/queer typing.md",
+    "assets/Snapins.ai_video_AQPP7DBkORcdA90nGqJEIkkEQQ4EN-7w8N72RQxmN6dewpNr5JsLoyQNpSy6aZ3KVKenRko5WIynPwo-y4Lj1lRI.mp4",
+    "assets/Snapins.ai_video_AQOZ_pIlF9G4nqSE1qU6BKJcTIsccsDOFU0x3VeNOY-3z2knoT6rhvoZBmr2mIbJsGj6xvlHsRPn5jANFzRH9NQu.mp4",
+    "assets/kBUb6LxJejVjh-ZO.mp4",
+    "collections/a collection of bug fix images.md",
+    "assets/Pasted image 20250401232643.png",
+    "assets/Pasted image 20250401232616.png",
+    "collections/a collection of sentences.md",
+    "collections",
+    "Untitled.md",
+    "assets/スクリーンショット 2025-04-01 午後11.17.30.png",
+    "assets/PXL_20240310_103659998.jpg",
+    "design/It's a feature, not a bug.md",
+    "design/queer design.md",
+    "tech/hermite interpolation.md",
+    "tech/gradient mesh.md",
+    "tech/drawing text in opengl.md",
+    "tech/Beauty Filters.md",
+    "tech/on art made with software.md",
+    "tech/interpolation.md",
     "tech/bhai ye he bhai-lang.md",
-    "tech/render targets.md",
     "tech/computation and weaving.md",
     "tech/coding as craft.md",
     "tech/generative making.md",
     "tech/prompting the prompt.md",
-    "tech/drawing text in opengl.md",
-    "poems/taxi rides in the morning.md",
-    "poems/silence.md",
-    "personal/creativity.md",
-    "personal/inhabiting online spaces.md",
-    "design/queer design.md",
-    "design/rangoli, kolam, lusona and everything in between.md",
-    "design/queer typing.canvas",
-    "example.md",
-    "Untitled.canvas",
-    "Diagram.svg",
     "what is a digital garden.md",
-    "how to build a mountain.md",
-    "what is handmade.md",
-    "projects/experiments with text.md",
-    "projects/where is my body.md",
-    "index.md",
-    "future/people/andy matuschak.md",
-    "projects/drafts/where is my body old.md",
+    "community",
+    "misc/shader tutorials/texture land.md",
+    "assets/WhatsApp Image 2024-06-23 at 12.28.26 AM (1).jpeg",
+    "assets/スクリーンショット 2025-04-01 午後8.54.36.png",
+    "assets/スクリーンショット 2025-04-01 午後8.45.56.png",
+    "assets/スクリーンショット 2025-04-01 午後8.45.26.png",
+    "Untitled.canvas",
+    "design/queer typing.canvas",
     "projects/drafts",
-    "projects/drafts/36 days of type 2021.md",
-    "2024-02-12.md",
-    "projects/tiny texts.md",
-    "assets/projects/wimb/wimb3.jpg",
-    "assets/projects/wimb/wimb2.jpg",
-    "assets/projects/wimb/wimb1.jpg",
-    "assets/projects/wimb/result.png",
-    "assets/projects/wimb/notion-screenshot.png",
-    "assets/projects/wimb/futurelanding.serendipityartsvirtual.com_opheliagame.png",
-    "assets/projects/freefall/screenshot.png",
-    "assets/projects/freefall/poem3.png",
-    "assets/projects/freefall/poem2.png",
     "assets/projects/freefall/d3-chai.mp4",
-    "assets/projects/wimb",
-    "assets/projects/freefall",
-    "assets/projects",
-    "assets/Users:anushkatrivedi:person.textClipping",
-    "website",
-    "assets/Pasted image 20240823155036.png.sb-ce06ca91-l12ATz",
-    "Diagram.svg.xml",
-    "misc"
+    "assets/projects/wimb"
   ]
 }
