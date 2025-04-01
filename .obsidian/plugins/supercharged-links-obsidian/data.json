@@ -1,0 +1,29 @@
+{
+  "targetAttributes": [
+    "dg-publish",
+    "test"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "dg-publish",
+      "value": "true",
+      "matchCaseSensitive": true,
+      "match": "exact",
+      "uid": "f129-c050",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

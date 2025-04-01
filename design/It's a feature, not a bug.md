@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 🐞 🪲 🐛 🕷️ 🐜 
 
 As someone who works in tech, I know that most developers do not have a good sense of colors and typography. Even if they do, that is not really their job on the team. There is design and implementation; existing separately as well as within each other. 
