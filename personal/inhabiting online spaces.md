@@ -3,7 +3,8 @@ The first computer that I used for more than playing sudoku was given to me in 1
 
 I spend a lot of my time online. And just like physical spaces look and feel a certain way, online spaces do too.   
 
-what can a website be 
+what can a website be?
+
 [[website as story]]
 [[website as archive]]
 [[website as window]]
