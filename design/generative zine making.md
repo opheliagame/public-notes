@@ -6,10 +6,3 @@ dg-publish: true
 
 ![[opheliagame.github.io_opheliagame.github.io-old_zines_queering-families(iPhone SE).png]]
 
-
-# Some generated pdfs
-
-![[zine1.pdf]]
-
-
-![[zine2.pdf]]
