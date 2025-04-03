@@ -1,0 +1,17 @@
+name: Trigger Parent Repository Build
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  trigger-parent:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger workflow in parent repository
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+            https://api.github.com/repos/opheliagame/garden/dispatches \
+            -d '{"event_type": "submodule-update", "client_payload": {"submodule": "${{ github.repository }}", "commit": "${{ github.sha }}"}}'
