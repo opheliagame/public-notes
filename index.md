@@ -1,7 +1,6 @@
 ---
 dg-publish: true
 dg-home: true
-title: thoughts and writing
 ---
 ***Recently I have been thinking about*** 
 

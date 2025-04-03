@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design/Generative zine making.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generative zine making"
+              "title": "index"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "design/Generative zine making.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Generative zine making"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "design/Generative zine making.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Generative zine making"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "design/Generative zine making.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Generative zine making"
+              "title": "Outline of index"
             }
           },
           {
@@ -195,9 +195,9 @@
   },
   "active": "60c86d41e3352553",
   "lastOpenFiles": [
+    "design/Generative zine making.md",
     "index.md",
     "community/documenting CCSanté, a creative coding meetup from Bangalore.md",
-    "design/Generative zine making.md",
     "writing/ambient art, e-lit.md",
     "personal/inhabiting online spaces.md",
     "writing/published words.md",
