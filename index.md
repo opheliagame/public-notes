@@ -16,6 +16,10 @@ dg-home: true
  
 ***Making***
 
+wood projects 🪓
+
+![[1756189041553.jpg]]
+
 [[making joy with joy]]
 
 ![[Pasted image 20250401194454.png]]
